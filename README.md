@@ -26,3 +26,19 @@ ng serve
 Adicionando Angular Material
 
 ng add @angular/material
+
+
+Adicionando um Modulo novo
+
+ng g m 'nomeDoModulo'
+
+Criando um  Modulo novo com roteamento
+
+ng g m 'nomeDoModulo' --routing
+
+Criando um componente
+
+ng g c 'path/'nomeDoComponente'
+
+
+Modulo > componoente

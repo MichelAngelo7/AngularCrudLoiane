@@ -17,3 +17,12 @@ criando projeto Angular
 ng new nomeDoProjeto
 
 usar roteamento yes
+
+rodando o projeto
+
+ng serve
+
+
+Adicionando Angular Material
+
+ng add @angular/material

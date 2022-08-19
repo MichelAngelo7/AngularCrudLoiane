@@ -42,3 +42,6 @@ ng g c 'path/'nomeDoComponente'
 
 
 Modulo > componoente
+
+Criando uma Interface
+ng g interface 'path/'nomedaInterface'
